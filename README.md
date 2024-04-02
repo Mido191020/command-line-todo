@@ -1,4 +1,6 @@
-Sure, here's the whole code you provided in one place:
+The last field is not empty in the provided markdown code. The code is formatted correctly, and there are no empty fields at the end.
+
+The markdown you provided is:
 
 ```markdown
 # Command Line Todo
@@ -10,24 +12,28 @@ This is a simple command-line todo list application written in Node.js. It allow
 To get started with the application, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```
-   git clone https://github.com/Mido191020/command-line-todo.git
-   ```
+
+```bash
+git clone https://github.com/Mido191020/command-line-todo.git
+```
 
 2. Navigate into the project directory:
-   ```
-   cd command-line-todo
-   ```
+
+```bash
+cd command-line-todo
+```
 
 3. Install the dependencies:
-   ```
-   npm install
-   ```
+
+```bash
+npm install
+```
 
 4. Run the application:
-   ```
-   node app.js
-   ```
+
+```bash
+node app.js
+```
 
 Now the application is up and running, and you can start managing your tasks from the command line!
 
@@ -41,12 +47,16 @@ The application supports the following commands:
 Here's how you can use the commands:
 
 - To list all tasks:
-  ```
-  node app.js list
-  ```
+
+```bash
+node app.js list
+```
 
 - To add a new task:
-  ```
-  node app.js add "Buy groceries"
-  ```
+
+```bash
+node app.js add "Buy groceries"
 ```
+```
+
+The last code block is not empty; it contains the command `node app.js add "Buy groceries"`, which demonstrates how to add a new task with the description "Buy groceries".
