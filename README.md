@@ -1,3 +1,5 @@
+Sure, here's the whole code you provided in one place:
+
 ```markdown
 # Command Line Todo
 
@@ -8,22 +10,22 @@ This is a simple command-line todo list application written in Node.js. It allow
 To get started with the application, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```bash
+   ```
    git clone https://github.com/Mido191020/command-line-todo.git
    ```
 
 2. Navigate into the project directory:
-   ```bash
+   ```
    cd command-line-todo
    ```
 
 3. Install the dependencies:
-   ```bash
+   ```
    npm install
    ```
 
 4. Run the application:
-   ```bash
+   ```
    node app.js
    ```
 
@@ -39,13 +41,12 @@ The application supports the following commands:
 Here's how you can use the commands:
 
 - To list all tasks:
-  ```bash
+  ```
   node app.js list
   ```
 
 - To add a new task:
-  ```bash
+  ```
   node app.js add "Buy groceries"
   ```
- 
 ```
