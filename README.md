@@ -35,7 +35,6 @@ The application supports the following commands:
 
 - `list`: Lists all the tasks.
 - `add [taskDescription]`: Adds a new task with the provided description.
-- `delete [taskIndex]`: Deletes the task at the specified index.
 
 Here's how you can use the commands:
 
@@ -48,9 +47,5 @@ Here's how you can use the commands:
   ```bash
   node app.js add "Buy groceries"
   ```
-
-- To delete a task (replace `[taskIndex]` with the index of the task you want to delete):
-  ```bash
-  node app.js delete [taskIndex]
-  ```
+ 
 ```
